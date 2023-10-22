@@ -4,9 +4,9 @@ const Contact = () => {
   return (
     <div className="section">
       <h2>Contact Me</h2>
-      <p>Email: aviral.jain2021a@vitstudetn.ac.in</p>
-      <p>Phone: 9588217939</p>
-      <p>LinkedIn:https://www.linkedin.com/in/aviral-jain-098992247</p>
+      <p>Email: aasthasachin.dugad2021a@vitstudetn.ac.in</p>
+      <p>Phone: 7620425298</p>
+      <p>LinkedIn:https://www.linkedin.com/in/aastha-dugad-399595282</p>
     </div>
   );
 };
